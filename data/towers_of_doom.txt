@@ -1,0 +1,57 @@
+The Butcher	3813	40.8 %	58.5 %
+Azmodan	3015	32.3 %	56.8 %
+Gazlowe	2787	29.9 %	55.2 %
+Nova	6855	73.4 %	54.9 %
+Malfurion	2494	26.7 %	54.9 %
+Xul	1562	16.7 %	54.7 %
+Sgt. Hammer	3205	34.3 %	54.6 %
+Brightwing	1368	14.7 %	54.4 %
+The Lost Vikings	507	5.4 %	53.5 %
+Tychus	2414	25.9 %	53.2 %
+Lt. Morales	1408	15.1 %	53.0 %
+Artanis	2307	24.7 %	53.0 %
+Rexxar	899	9.6 %	52.6 %
+Zarya	2560	27.4 %	52.5 %
+Kerrigan	2641	28.3 %	52.3 %
+Anub'arak	933	10.0 %	52.2 %
+Leoric	2101	22.5 %	51.8 %
+Thrall	2849	30.5 %	51.8 %
+Nazeebo	3489	37.4 %	51.5 %
+Lunara	2462	26.4 %	51.0 %
+Dehaka	1021	10.9 %	50.9 %
+Johanna	1348	14.4 %	50.9 %
+Illidan	3685	39.5 %	50.9 %
+Zeratul	2984	32.0 %	50.6 %
+Auriel	2207	23.6 %	50.4 %
+E.T.C.	1715	18.4 %	50.4 %
+Jaina	2994	32.1 %	50.3 %
+Li-Ming	5328	57.1 %	49.9 %
+Murky	1618	17.3 %	49.8 %
+Tracer	2695	28.9 %	49.5 %
+Arthas	1674	17.9 %	49.5 %
+Chen	1456	15.6 %	49.4 %
+Uther	828	8.9 %	49.0 %
+Tyrael	1427	15.3 %	48.9 %
+Zagara	2051	22.0 %	48.8 %
+Gul'dan	2957	31.7 %	48.6 %
+Muradin	1830	19.6 %	48.5 %
+Alarak	3772	40.4 %	48.5 %
+Diablo	1528	16.4 %	48.5 %
+Tyrande	1770	19.0 %	48.2 %
+Li Li	1423	15.2 %	48.1 %
+Greymane	1525	16.3 %	47.9 %
+Abathur	3683	39.5 %	47.9 %
+Raynor	2328	24.9 %	47.5 %
+Sonya	1578	16.9 %	47.5 %
+Kharazim	1313	14.1 %	46.8 %
+Falstad	1776	19.0 %	46.6 %
+Stitches	2183	23.4 %	45.6 %
+Sylvanas	2937	31.5 %	45.1 %
+Chromie	3226	34.6 %	45.1 %
+Gall	713	7.6 %	44.2 %
+Cho	764	8.2 %	44.1 %
+Tassadar	1557	16.7 %	43.9 %
+Kael'thas	2889	30.9 %	43.5 %
+Valla	4484	48.0 %	43.5 %
+Rehgar	738	7.9 %	42.8 %
+Medivh	1841	19.7 %	41.1 %
